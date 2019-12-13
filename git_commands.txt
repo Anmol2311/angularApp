@@ -1,12 +1,14 @@
-ls
-git init
-git remote add origin "path"
-git checkout -b new_branch
-git pull origin master
-git status
-git add ./fileName
-git commit -m "message"
-git push origin new_branch
-git merge branch_name
-
-
+ls : show files
+git init : git initialization
+git remote add origin "path" : connect your local repository to the remote server.
+git checkout branch_name : switch to new branch
+git checkout -b new_branch : create & switch new branch
+git pull origin master : get data from branch
+git status : show status
+git add ./fileName : add file locally
+git commit -m "message" : commit changes
+git push origin new_branch : insert file in branch
+git merge branch_name : merge two branch
+git branch : display list of branch
+git branch branch_name : create branch
+git branch -d [branch name]: delete branch
