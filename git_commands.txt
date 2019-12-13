@@ -1,0 +1,11 @@
+ls
+git init
+git remote add origin "path"
+git checkout -b new_branch
+git pull origin master
+git status
+git add ./fileName
+git commit -m "message"
+git push origin new_branch
+
+
