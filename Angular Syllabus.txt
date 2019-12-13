@@ -1,0 +1,48 @@
+* Typescript
+1. Data Types (string, number, boolean, array, tuple, object, enum, union)
+2. Types of functions(default,parametarized,function with optional paramater,function with rest paramater,anonymous, arrow)
+3. Opps Concept (class,object,inheritance,polymorphism,interface,abstraction,encapsulation)
+4. modules (import & export)
+
+* Angular
+
+* How to create a project
+> npm install -g @angular/cli
+> ng new my-dream-app
+> cd my-dream-app
+> ng serve
+
+* Module & Component
+Component:  basic building block of  angular application
+Module: a module is a mechanism to group components, directives, pipes and services
+
+* Data Binding
+1. Interpolation: component to template.
+2. Property Binding: component to template for specified property.
+3. Event Binding: template to component.
+4. Two-way Binding: bi-direction binding (banana in the box).
+
+* Directives: 
+1. Component Directive: directive with template
+2. Element Or Structural Directive: Used for DOM Manipulation (ngFor, ngIf, ngSwitch)
+3. Attribute Directives: Used to change the appearence, behaviour & layout of element (ngStyle, ngClass)
+
+* Routing
+1. default routing
+2. redirect routing
+3. child routing
+4. parametarized routing
+5. wildcard routing
+
+* Angular Forms
+1. Template Driven
+2. Reactive
+
+* CRUD Operation:
+1. JSON fake api 
+2. Service
+3. API integration using get, post, put, delete
+4. Lazy Loading
+5. Anyone form
+
+With Live Project.
